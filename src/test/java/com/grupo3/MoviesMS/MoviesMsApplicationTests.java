@@ -1,4 +1,4 @@
-package com.example.MoviesMS;
+package com.grupo3.MoviesMS;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

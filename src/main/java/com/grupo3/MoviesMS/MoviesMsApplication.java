@@ -1,4 +1,4 @@
-package com.example.MoviesMS;
+package com.grupo3.MoviesMS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
